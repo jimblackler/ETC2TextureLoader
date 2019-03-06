@@ -5,11 +5,5 @@ Note: “Media Elements” are the images, clip art, animations, sounds, music, 
 Note: The source code sample is provided under the BSD license.  See the license folder within the sample source directory for additional details.
 
 === ABOUT ===
-Simple example showing how to load the ETC2 texture format.  Application originally written by William Guo.  Updated to include ETC2 by Cristiano Ferreira.
+Simple example showing how to load the ETC2 texture format.  Application originally written by William Guo.  Updated to include ETC2 by Cristiano Ferreira.  Converted to an Android Studio project by Jim Blackler.
 
-=== INSTALLATION ===
-In project root with a device connected, or the emulator running run the following:
-	android update project –p .
-	ndk-build
-	ant debug
-	ant installd
